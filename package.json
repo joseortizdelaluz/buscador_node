@@ -1,0 +1,14 @@
+{
+  "name": "buscador_node",
+  "version": "1.0.0",
+  "description": "Buscador",
+  "main": "index.js",
+  "scripts": {
+    "test": "node /server"
+  },
+  "author": "Jose Ortiz De la luz",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
