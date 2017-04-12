@@ -70,7 +70,6 @@ $(document).ready(function(){
       if(ciudad != undefined){
         filtro.Ciudad = ciudad;
       }
-      console.log(rango.result);
       if(rango.result && rango.result.from && rango.result.to){
         filtro.rango = {
           from : rango.result.from,
